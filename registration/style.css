@@ -1,0 +1,42 @@
+.card{
+    margin-top: 10px;
+    text-align: center;
+    outline: 0px;
+    margin-left: 50px;
+    outline: none;
+    border: none;
+    margin-right: 50px;
+    
+}
+.card{
+    border-top: 0 !important;
+    border-bottom: 0 !important;
+    border-right: 0 !important;
+    border-left: 0 !important;
+    text-align: left;
+}
+
+
+.card img{
+   
+    box-sizing: border-box !important;
+    width: 208px;
+    aspect-ratio: auto 208 / 208;
+    height: 208px;
+    margin-left: 30px;
+}
+.card h5{
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+    text-align: left;
+    
+}
+
+.card p{
+    text-align: left;
+}
+
+h4{
+    visibility: hidden;
+}
